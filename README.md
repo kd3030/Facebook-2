@@ -16,7 +16,7 @@ Time spent: `10`
 
 Here's a walkthrough of implemented user stories:
 
-[gif animation](facebookx2.gif)
+[gif animation](facebook2.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
